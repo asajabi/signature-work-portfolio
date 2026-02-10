@@ -10,7 +10,7 @@ What I show in this work is both my practices and tech applications that fit the
 
 ## 💼 Project 1: Delta Al-Battha Auto Parts Website  
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/DBP)  
-🌐 [Live Site](https://abdullahaljaberi.github.io/DBP/)
+🌐 [Live Site](https://asajabi.github.io/DBP/)
 
 I built this website for my father’s company in the auto parts industry. The site is in both Arabic and English, easy to navigate and responsive. The idea is it to make it easier for customers to find and order Nissan parts and to manage stock for the staff.
 
@@ -24,7 +24,7 @@ HTML, CSS and JavaScript are currently in use, followed by backend integration.
 
 ## 🎨 Project 2: Clown Face Music Visualizer  
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/music-visualizer)  
-🌐 [Live Site](https://abdullahaljaberi.github.io/music-visualizer/)
+🌐 [Live Site](https://asajabi.github.io/music-visualizer/)
 
 This work uses Three.js and the Web Audio API to move a 3D clown face to the rhythm of the music. The features on the face react to what you hear and the flames respond to the bass.
 
@@ -38,7 +38,7 @@ I explored digital audio frequencies, analysed buffers and scaled meshes in real
 
 ## 🐍 Project 3: Snake Game  
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/snake)  
-🌐 [Live Site](https://abdullahaljaberi.github.io/snake/)
+🌐 [Live Site](https://asajabi.github.io/snake/)
 
 Game created using p5.js that also uses sound libraries. There are special sounds for crunching food and ending the game included in the game. The game is restarted after you collide with anything.
 
