@@ -10,7 +10,7 @@ What I show in this work is both my practices and tech applications that fit the
 
 ## 💼 Project 1: Delta Al-Battha Auto Parts Website  
 🔗 [GitHub Repo](https://github.com/asajabi/DBP)  
-🌐 [Live Site](https://asajabi.github.io/DBP/)
+🌐 [Live Site](https://www.dbpparts.com/)
 
 I built this website for my father’s company in the auto parts industry. The site is in both Arabic and English, easy to navigate and responsive. The idea is it to make it easier for customers to find and order Nissan parts and to manage stock for the staff.
 
